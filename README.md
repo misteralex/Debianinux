@@ -36,7 +36,7 @@ source code format.
 You need to have Debianinux or equivalent environment that include Arduino IDE, Eclipse C++ IDE with "Arduino Eclipse IDE V2" plugin or Arduino-Makefile.
 
 ## Usage
-To use this examples is enough open them through Eclipse or use standard make tool from terminal.
+To use these examples is enough open them through Eclipse or use standard make tool from terminal.
 
 Please refer to the Debianinux tutorial to know more details about it. The tutorial is available at www.embeddedrevolution.blogspot.it Home Page.
 
