@@ -42,7 +42,7 @@ Please refer to the Debianinux tutorial to know more details about it. The tutor
 
 ## License
 
-This example as well as Debianinux and the related documentation are free software; you can redistribute it and/or modify it under the terms of the GNU GFDL License as published by the Free Software Foundation.
+These example as well as Debianinux and the related documentation are free software; you can redistribute it and/or modify it under the terms of the GNU GFDL License as published by the Free Software Foundation.
 
 ## Contribution
 Copyright AF 2014
