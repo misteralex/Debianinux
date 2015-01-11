@@ -10,5 +10,5 @@ void setup()
 void loop()
 {
 	Serial.println("Hello World ALESSANDRO!!!");
-	delay(1000);        // delay one second
+	delay(1000); // delay one second
 }
