@@ -1,18 +1,37 @@
+/**
+ *  @file    HelloCWorld.cpp
+ *  @author  AF (<a href="http://embeddedrevolution.blogspot.it/2014/06/debianinux.html">www.embeddedrevolution.blogspot.it</a>)
+ *  @date    2/6/2014
+ *  @version 1.1
+ *
+ *  @brief Provide an example of standard Arduino project in C language under Eclipse IDE
+ *
+ *  @section DESCRIPTION
+ *
+ *  This application is meant as example. It useful as test tool
+ *  for standart output through virtual standard serial RS232C as
+ *  part of Debianinux context.
+ *
+ */
+
 #include "HelloCWorld.h"
 
-// main process
+/**
+ *   @brief  Main process
+ *   @param  no input parameters
+ *   @return no output
+ */
 int main()
 {
         int counter;
 
         init();
 
-        // Init serial communications and wait for port to open:
+        /// Init serial communications and wait for port to open:
         Serial.begin(9600);
 
-        // wait for serial port to connect (this is an optional condition board related)
-        while (!Serial) {
-        }
+        /// Wait for serial port to connect (this is an optional condition board related)
+        while (!Serial);
         delay(50);
 
         Serial.println("Hello World");
