@@ -1,6 +1,6 @@
 /**
  *  @file    HelloCWorld.h
- *  @author  AF (<a href="http://embeddedrevolution.blogspot.it/2014/06/debianinux.html">www.embeddedrevolution.blogspot.it</a>)
+ *  @author  Alessandro Faraci (afembeddedrevolution@gmail.com)
  *  @date    2/6/2014
  *  @version 1.1
  *
