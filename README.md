@@ -4,7 +4,7 @@ Here some classic HelloWorld test projects for Debianinux virtual environment fo
 
 Debianinux is a Debian virtual machine that offers an integrated Arduino Eclipse C++ environment on Linux platform. 
 
-Please refer to the Debianinux tutorial to know more details about it. The tutorial is available at www.embeddedrevolution.blogspot.it
+Please refer to the Debianinux tutorial to know more details about it. The tutorial is available at www.embeddedinnovation.info
 
 The tutorial is a step-by-step guide to create a full Linux virtual machine configured to work with standard Arduino IDE and Eclipse C++ Framework. So you can start to design your virtual machine or download it ready to use. 
 
@@ -38,7 +38,7 @@ You need to have Debianinux or equivalent environment that include Arduino IDE, 
 ## Usage
 To use these examples is enough open them through Eclipse or use standard make tool from terminal.
 
-Please refer to the Debianinux tutorial to know more details about it. The tutorial is available at www.embeddedrevolution.blogspot.it Home Page.
+Please refer to the Debianinux tutorial to know more details about it. The tutorial is available at www.embeddedinnovation.info Home Page.
 
 ## License
 
