@@ -34,7 +34,7 @@ void setup()
 void loop()
 {
 	/// Send an output message through standard serial virtual port
-	Serial.println("Hello World ALESSANDRO!!!");
+	Serial.println("Hello World !!!");
 
 	/// Delay one second
 	delay(1000);
