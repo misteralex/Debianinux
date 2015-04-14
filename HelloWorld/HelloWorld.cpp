@@ -1,6 +1,6 @@
 /**
  *  @file    HelloWorld.cpp
- *  @author  Alessandro Faraci (afembeddedrevolution@gmail.com)
+ *  @author  Alessandro Faraci
  *  @date    2/6/2014
  *  @version 1.1
  *
@@ -8,7 +8,7 @@
  *
  *  @section DESCRIPTION
  *
- *  This application is meant as example. It useful as test tool
+ *  This application is meant as example. It is a useful test tool
  *  for standart output through virtual standard serial RS232C as
  *  part of Debianinux context.
  *
@@ -30,7 +30,7 @@ void setup()
  *   @brief  Loop function called in an endless loop
  *   @param  no input parameters
  *   @return void
- */
+ /
 void loop()
 {
 	/// Send an output message through standard serial virtual port

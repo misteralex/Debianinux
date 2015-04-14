@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Arduino Eclipse IDE V2
+GenericName=Ecliplse Luna C/C++ Framework
+Exec=eclipse
+Icon=/home/arduinodev/XDAQ/Admin/eclipse_icon.xpm
+StartupNotify=true
+Terminal=false
+Categories=Development
+Comment=Eclipse Luna C/C++ Framework

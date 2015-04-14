@@ -1,6 +1,6 @@
 /**
  *  @file    HelloWorld.h
- *  @author  Alessandro Faraci (afembeddedrevolution@gmail.com)
+ *  @author  Alessandro Faraci
  *  @date    2/6/2014
  *  @version 1.1
  *

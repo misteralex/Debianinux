@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Arduino IDE 1.6
+GenericName=Arduino IDE 1.6
+Exec=arduino
+Icon=/home/arduinodev/XDAQ/Admin/arduino_logo_w_100.png
+StartupNotify=true
+Terminal=false
+Categories=Development
+Comment=Release suitable for any Arduino board

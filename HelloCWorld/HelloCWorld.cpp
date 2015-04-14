@@ -1,6 +1,6 @@
 /**
  *  @file    HelloCWorld.cpp
- *  @author  Alessandro Faraci (afembeddedrevolution@gmail.com)
+ *  @author  Alessandro Faraci
  *  @date    2/6/2014
  *  @version 1.1
  *
@@ -8,7 +8,7 @@
  *
  *  @section DESCRIPTION
  *
- *  This application is meant as example. It useful as test tool
+ *  This application is meant as example. It is a useful test tool
  *  for standart output through virtual standard serial RS232C as
  *  part of Debianinux context.
  *

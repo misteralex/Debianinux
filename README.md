@@ -1,3 +1,5 @@
+# Debianinux v1.1 (substack of XDAQ: Virtual Appliance for Science)
+
 # Some examples for Arduino Eclipse C++ IDE
 
 Here some classic HelloWorld test projects for Debianinux virtual environment for Arduino boards. Further there are some configuration files customized for Debianinux available under the folder INSTALL.
@@ -45,4 +47,4 @@ Please refer to the Debianinux tutorial to know more details about it. The tutor
 These examples as well as Debianinux and the related documentation are free software; you can redistribute them and/or modify them under the terms of the GNU GFDL License as published by the Free Software Foundation.
 
 ## Contribution
-Copyright AF 2014
+Copyright AF 2015

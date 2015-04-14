@@ -1,0 +1,42 @@
+\begin{theindex}
+
+  \item {/home/arduinodev/\discretionary {-}{}{}Debianinux/\discretionary {-}{}{}Hello\discretionary {-}{}{}C\discretionary {-}{}{}World/\discretionary {-}{}{}Hello\discretionary {-}{}{}C\discretionary {-}{}{}World.\discretionary {-}{}{}cpp}, 
+		\hyperpage{3}
+  \item {/home/arduinodev/\discretionary {-}{}{}Debianinux/\discretionary {-}{}{}Hello\discretionary {-}{}{}C\discretionary {-}{}{}World/\discretionary {-}{}{}Hello\discretionary {-}{}{}C\discretionary {-}{}{}World.\discretionary {-}{}{}h}, 
+		\hyperpage{4}
+  \item {/home/arduinodev/\discretionary {-}{}{}Debianinux/\discretionary {-}{}{}Hello\discretionary {-}{}{}World/\discretionary {-}{}{}Hello\discretionary {-}{}{}World.\discretionary {-}{}{}cpp}, 
+		\hyperpage{4}
+  \item {/home/arduinodev/\discretionary {-}{}{}Debianinux/\discretionary {-}{}{}Hello\discretionary {-}{}{}World/\discretionary {-}{}{}Hello\discretionary {-}{}{}World.\discretionary {-}{}{}h}, 
+		\hyperpage{5}
+
+  \indexspace
+
+  \item {Hello\discretionary {-}{}{}C\discretionary {-}{}{}World.\discretionary {-}{}{}cpp}
+    \subitem {main}, \hyperpage{3}
+  \item {Hello\discretionary {-}{}{}World.\discretionary {-}{}{}cpp}
+    \subitem {setup}, \hyperpage{5}
+  \item {Hello\discretionary {-}{}{}World.\discretionary {-}{}{}h}
+    \subitem {loop}, \hyperpage{6}
+    \subitem {setup}, \hyperpage{6}
+
+  \indexspace
+
+  \item {loop}
+    \subitem {Hello\discretionary {-}{}{}World.\discretionary {-}{}{}h}, 
+		\hyperpage{6}
+
+  \indexspace
+
+  \item {main}
+    \subitem {Hello\discretionary {-}{}{}C\discretionary {-}{}{}World.\discretionary {-}{}{}cpp}, 
+		\hyperpage{3}
+
+  \indexspace
+
+  \item {setup}
+    \subitem {Hello\discretionary {-}{}{}World.\discretionary {-}{}{}cpp}, 
+		\hyperpage{5}
+    \subitem {Hello\discretionary {-}{}{}World.\discretionary {-}{}{}h}, 
+		\hyperpage{6}
+
+\end{theindex}
