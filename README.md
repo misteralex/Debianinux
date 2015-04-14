@@ -40,7 +40,7 @@ You need to have Debianinux or equivalent environment that include Arduino IDE, 
 ## Usage
 To use these examples is enough open them through Eclipse or use standard make tool from terminal.
 
-Please refer to the Debianinux tutorial to know more details about it. The tutorial is available at www.embeddedinnovation.info Home Page.
+Please refer to the Debianinux tutorial to know more details about it. The tutorial is available at www.embeddedrevolution.info Home Page.
 
 ## License
 
