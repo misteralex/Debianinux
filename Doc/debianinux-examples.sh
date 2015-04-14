@@ -1,7 +1,35 @@
 #!/bin/bash
 
-doxygen debianinux-examples
+#############################################################################
+# debianinux-examples.sh - Script to build Doxygen documents                #
+# Copyright (C) 2015 by Alessandro Faraci                                   #
+#                                                                           #
+# debianinux-examples.sh is free software: you can redistribute it and/or   #
+# modify it under the terms of the GNU Lesser General Public License 	    #
+# as published by the Free Software Foundation, either version 3 of 	    #
+# the License, or (at your option) any later version.                       #
+#                                                                           #
+# debianinux-examples.sh is distributed in the hope that it will be useful, #
+# but WITHOUT ANY WARRANTY; without even the implied warranty of            #
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the             #
+# GNU Lesser General Public License for more details.                       #
+#                                                                           #
+# You should have received a copy of the GNU Lesser General Public          #
+# License along with debianinux-examples.sh  				    #
+# If not, see <http://www.gnu.org/licenses/> 				    #
+#############################################################################
+
+RNAME=debianinux-examples
+
+if [ ! -f $RNAME ];
+then
+	doxygen -g $RNAME
+	echo "Please check new doxygen configuration file <$RNAME>"
+	exit
+fi
+
+doxygen $RNAME
 
 cd latex
 make pdf
-cp -f refman.pdf ../debianinux-examples.pdf
+cp -f refman.pdf ../$RNAME.pdf
