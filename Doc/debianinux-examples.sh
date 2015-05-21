@@ -21,14 +21,14 @@
 
 RNAME=debianinux-examples
 
-if [ ! -f $RNAME ];
+if [ ! -f $RNAME.cfg ];
 then
-	doxygen -g $RNAME
+	doxygen -g $RNAME.cfg
 	echo "Please check new doxygen configuration file <$RNAME>"
 	exit
 fi
 
-doxygen $RNAME
+doxygen $RNAME.cfg
 
 cd latex
 make pdf

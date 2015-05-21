@@ -23,14 +23,14 @@
  */
 void setup()
 {
-	Serial.begin(9600);
+	Serial.begin(115200);
 }
 
-/**
+/*
  *   @brief  Loop function called in an endless loop
  *   @param  no input parameters
  *   @return void
- /
+ */
 void loop()
 {
 	/// Send an output message through standard serial virtual port

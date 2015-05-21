@@ -28,7 +28,7 @@ int main()
         init();
 
         /// Init serial communications and wait for port to open:
-        Serial.begin(9600);
+        Serial.begin(115200);
 
         /// Wait for serial port to connect (this is an optional condition board related)
         while (!Serial);
