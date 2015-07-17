@@ -1,6 +1,6 @@
 /**
  *  @file    HelloCWorld.cpp
- *  @author  Alessandro Faraci
+ *  @author  AF
  *  @date    2/6/2014
  *  @version 1.1
  *

@@ -1,42 +1,40 @@
 \begin{theindex}
 
-  \item {/home/arduinodev/\discretionary {-}{}{}Debianinux/\discretionary {-}{}{}Hello\discretionary {-}{}{}C\discretionary {-}{}{}World/\discretionary {-}{}{}Hello\discretionary {-}{}{}C\discretionary {-}{}{}World.\discretionary {-}{}{}cpp}, 
+  \item {/home/arduinodev/\+Debianinux/\+Hello\+C\+World/\+Hello\+C\+World.\+cpp}, 
 		\hyperpage{3}
-  \item {/home/arduinodev/\discretionary {-}{}{}Debianinux/\discretionary {-}{}{}Hello\discretionary {-}{}{}C\discretionary {-}{}{}World/\discretionary {-}{}{}Hello\discretionary {-}{}{}C\discretionary {-}{}{}World.\discretionary {-}{}{}h}, 
+  \item {/home/arduinodev/\+Debianinux/\+Hello\+C\+World/\+Hello\+C\+World.\+h}, 
 		\hyperpage{4}
-  \item {/home/arduinodev/\discretionary {-}{}{}Debianinux/\discretionary {-}{}{}Hello\discretionary {-}{}{}World/\discretionary {-}{}{}Hello\discretionary {-}{}{}World.\discretionary {-}{}{}cpp}, 
+  \item {/home/arduinodev/\+Debianinux/\+Hello\+World/\+Hello\+World.\+cpp}, 
 		\hyperpage{4}
-  \item {/home/arduinodev/\discretionary {-}{}{}Debianinux/\discretionary {-}{}{}Hello\discretionary {-}{}{}World/\discretionary {-}{}{}Hello\discretionary {-}{}{}World.\discretionary {-}{}{}h}, 
+  \item {/home/arduinodev/\+Debianinux/\+Hello\+World/\+Hello\+World.\+h}, 
 		\hyperpage{5}
 
   \indexspace
 
-  \item {Hello\discretionary {-}{}{}C\discretionary {-}{}{}World.\discretionary {-}{}{}cpp}
+  \item {Hello\+C\+World.\+cpp}
     \subitem {main}, \hyperpage{3}
-  \item {Hello\discretionary {-}{}{}World.\discretionary {-}{}{}cpp}
+  \item {Hello\+World.\+cpp}
+    \subitem {loop}, \hyperpage{5}
     \subitem {setup}, \hyperpage{5}
-  \item {Hello\discretionary {-}{}{}World.\discretionary {-}{}{}h}
+  \item {Hello\+World.\+h}
     \subitem {loop}, \hyperpage{6}
     \subitem {setup}, \hyperpage{6}
 
   \indexspace
 
   \item {loop}
-    \subitem {Hello\discretionary {-}{}{}World.\discretionary {-}{}{}h}, 
-		\hyperpage{6}
+    \subitem {Hello\+World.\+cpp}, \hyperpage{5}
+    \subitem {Hello\+World.\+h}, \hyperpage{6}
 
   \indexspace
 
   \item {main}
-    \subitem {Hello\discretionary {-}{}{}C\discretionary {-}{}{}World.\discretionary {-}{}{}cpp}, 
-		\hyperpage{3}
+    \subitem {Hello\+C\+World.\+cpp}, \hyperpage{3}
 
   \indexspace
 
   \item {setup}
-    \subitem {Hello\discretionary {-}{}{}World.\discretionary {-}{}{}cpp}, 
-		\hyperpage{5}
-    \subitem {Hello\discretionary {-}{}{}World.\discretionary {-}{}{}h}, 
-		\hyperpage{6}
+    \subitem {Hello\+World.\+cpp}, \hyperpage{5}
+    \subitem {Hello\+World.\+h}, \hyperpage{6}
 
 \end{theindex}
